@@ -1,1 +1,1 @@
-web:node index.js && xcopy .\\client\\assets dist\\assets /i /s
+web:node server/app.js
