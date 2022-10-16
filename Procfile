@@ -1,1 +1,1 @@
-WEB:node index.js && xcopy .\\client\\assets dist\\assets /i /s
+web:node index.js && xcopy .\\client\\assets dist\\assets /i /s
